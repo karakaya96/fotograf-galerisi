@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fotograf-galerisi/static/css/main.2e6d0aed.css",
-    "main.js": "/fotograf-galerisi/static/js/main.ac4a263f.js",
+    "main.js": "/fotograf-galerisi/static/js/main.959c166e.js",
     "index.html": "/fotograf-galerisi/index.html",
     "main.2e6d0aed.css.map": "/fotograf-galerisi/static/css/main.2e6d0aed.css.map",
-    "main.ac4a263f.js.map": "/fotograf-galerisi/static/js/main.ac4a263f.js.map"
+    "main.959c166e.js.map": "/fotograf-galerisi/static/js/main.959c166e.js.map"
   },
   "entrypoints": [
     "static/css/main.2e6d0aed.css",
-    "static/js/main.ac4a263f.js"
+    "static/js/main.959c166e.js"
   ]
 }
